@@ -2,7 +2,7 @@
 # Introduction
 A Full Stack web application built with express, node and indexDB. With this application you can keep track of your finances by adding expenses and income.
 
-Deployed on Heroku - https://intense-dawn-01348.herokuapp.com/
+Deployed on Heroku - 
 
 # Features
 The key feature of this app is all transactions can be done when offline. The app updates the database when back online.
