@@ -42,6 +42,8 @@ Should you have any questions regarding this project please open an issue or con
 
 Link to app page: https://cvgo2000.github.io/HW018-Progressive-Budget/
 Link to the deployed app on Heroku: https://intense-dawn-01348.herokuapp.com/
+
+
 <img src="public/assets/images/budget.png">
 
 # Technologies
